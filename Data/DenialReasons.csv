@@ -1,0 +1,6 @@
+Denial_Code,Category,Reason_Description
+CO16,Coding,Diagnosis code missing
+CO97,Eligibility,Invalid insurance coverage
+CO50,Documentation,Missing clinical documentation
+CO45,Other,Billed amount exceeds allowed amount
+CO29,Other,Past timely filing limit

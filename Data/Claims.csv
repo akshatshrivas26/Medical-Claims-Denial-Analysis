@@ -1,0 +1,11 @@
+Claim_ID,Patient_ID,Department,Payer_ID,Claim_Date,Claim_Amount,Claim_Status
+C001,P001,Radiology,P01,2025-01-01,1200,Denied
+C002,P002,Surgery,P02,2025-01-01,3500,Paid
+C003,P003,Orthopedics,P03,2025-01-02,2400,Denied
+C004,P004,Emergency,P02,2025-01-02,1800,Denied
+C005,P005,Surgery,P04,2025-01-03,4200,Paid
+C006,P006,Cardiology,P01,2025-01-03,5000,Paid
+C007,P007,Radiology,P03,2025-01-03,900,Denied
+C008,P008,Surgery,P04,2025-01-04,4400,Paid
+C009,P009,Emergency,P05,2025-01-04,1500,Denied
+C010,P010,Orthopedics,P02,2025-01-04,2700,Paid
